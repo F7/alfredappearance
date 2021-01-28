@@ -1,0 +1,64 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 4,
+      "subtext" : {
+        "size" : 12,
+        "colorSelected" : "#D5D5D5FF",
+        "font" : "Helvetica Bold",
+        "color" : "#7E7E7FFF"
+      },
+      "shortcut" : {
+        "size" : 16,
+        "colorSelected" : "#FFFEFDFF",
+        "font" : "Helvetica",
+        "color" : "#C3C3C3FF"
+      },
+      "backgroundSelected" : "#FEFFFF19",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#FFFBF4FF",
+        "font" : "Helvetica Neue Bold",
+        "color" : "#FEFFFFFF"
+      },
+      "iconPaddingHorizontal" : 5,
+      "roundness" : 0,
+      "paddingVertical" : 0,
+      "iconSize" : 40
+    },
+    "search" : {
+      "backgroundSelected" : "#DCDDDEFF",
+      "paddingHorizontal" : 0,
+      "spacing" : 20,
+      "text" : {
+        "size" : 44,
+        "colorSelected" : "#D0501FFF",
+        "font" : "Helvetica Neue Bold",
+        "color" : "#F4F9F2E5"
+      },
+      "background" : "#22222200",
+      "roundness" : 0,
+      "paddingVertical" : 2
+    },
+    "window" : {
+      "color" : "#222222F9",
+      "paddingHorizontal" : 40,
+      "width" : 400,
+      "borderPadding" : 0,
+      "borderColor" : "#FFF3D900",
+      "blur" : 0,
+      "roundness" : -5,
+      "paddingVertical" : 40
+    },
+    "credit" : "Yoshito Hasaka (@_F7)",
+    "separator" : {
+      "color" : "#FFFFFF00",
+      "thickness" : 15
+    },
+    "scrollbar" : {
+      "color" : "#CDCDCD00",
+      "thickness" : 2
+    },
+    "name" : "F7 (v2)"
+  }
+}
